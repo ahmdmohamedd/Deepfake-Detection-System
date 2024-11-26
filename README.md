@@ -20,7 +20,7 @@ The system uses the **FaceForensics++ dataset**, which contains folders with ima
 - **Real**: Genuine, unaltered images.
 - **Fake**: Images manipulated using deepfake generation techniques.
 
-To download the dataset, visit [FaceForensics++]((https://www.kaggle.com/datasets/greatgamedota/faceforensics)).
+To download the dataset, visit [FaceForensics++](https://www.kaggle.com/datasets/greatgamedota/faceforensics).
 
 ---
 
